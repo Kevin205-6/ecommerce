@@ -1,0 +1,1 @@
+Carpeta para hacer las funcionalidad de la pagina como animaciones, consultas a la base de datos
